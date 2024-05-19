@@ -653,10 +653,7 @@ a {
     width: 35%;
 }
 
-.footer .row .column:nth-child(2) {
-    width: 22%;
-}
-
+.footer .row .column:nth-child(2),
 .footer .row .column:nth-child(3) {
     width: 22%;
 }
